@@ -1,5 +1,5 @@
 joblib==1.0.1
-scikit-learn==0.24.1
+scikit-learn==0.21.2
 streamlit==0.80.0
 pyngrok==4.1.1
 ipykernel==5.5.3
