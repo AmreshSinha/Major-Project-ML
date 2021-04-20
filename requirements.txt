@@ -1,3 +1,4 @@
+pickle
 joblib==1.0.1
 scikit-learn==0.21.2
 streamlit==0.80.0
